@@ -1,0 +1,1 @@
+This file depicts my planning for what I am going to be doing for this project.
